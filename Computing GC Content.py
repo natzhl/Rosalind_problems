@@ -1,6 +1,6 @@
 from Bio import SeqIO
 
-fasta_sequences = SeqIO.parse(('/content/rosalind_gc (1).txt'),'fasta')
+fasta_sequences = SeqIO.parse(('/content/rosalind_gc.txt'),'fasta')
 
 id = []
 seq = []
